@@ -1,0 +1,277 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Gilroy";
+    position: relative;
+    top: 0%;
+    box-sizing: border-box;
+    display: flex;
+}
+.offer{
+    position: absolute;
+    width: 1728px;
+    height: 100px;
+    background-color: #E9E5D8;
+}
+.offer p{
+    position: absolute;
+    top: 34px;
+    left: 601px;
+    font-family: "Gilroy";
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+}  
+
+/* navbar css */
+.navbar{
+    position: absolute;
+    width: 1608px;
+    height: 136px;
+    top: 135px;
+    left: 60px;
+    background-color: #FFFFFF;
+}
+.nav-img{
+    position: absolute;
+    width: 1300px;
+    height: auto;
+}
+/* banner css */
+.banner-img{
+    position: absolute;
+    width: 2144px;
+    height: 821px;
+    top: 306px;
+    left: -416px;
+}
+.banner-img img{
+    width:2144px;
+    height: 821px;
+}
+
+/* our story css */
+.container {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 1728px;
+    height: 801.25px;
+    top: 1197px;
+}
+
+.text-box {
+    position: absolute;
+    background-color: white;
+    width: 695px;
+    height: 407px;
+    top: 200px;
+    left: 203px;
+    padding: 40px;
+    text-align: center;
+    text-align: right;
+    justify-content: right;
+}
+
+h2 {
+    font-family: "";
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 35px;
+    letter-spacing: 0%;
+    margin-bottom: 15px;
+    color:gray;
+
+}
+
+.read-more {
+    background-color: #c4a20a;
+    color: white;
+    padding: 20px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 26px;
+    width: 232px;
+    height: 70px;
+}
+
+.image {
+    position: absolute;
+    top: 60px;
+    left: 1008px;
+    width: 576px;
+    height: 714px;
+}
+/* collection css */
+.collection{
+    position: absolute;
+    top: 2128px;
+    left: 60px;
+    width: 1608px;
+    height: 803px;
+    padding-bottom: 30px;
+}
+.h1{
+    position: absolute;
+    width: 830px;
+    height: 119px;
+    left: 449px;
+}
+.c1{
+    position: absolute;
+    left: -10px;
+    top: 170px;
+    cursor: pointer;
+}
+.c2{
+    position: absolute;
+    left: 530px;
+    top: 170px;
+    cursor: pointer;
+}
+.but1{
+    position: absolute;
+    left: 530px;
+    top: 735px;
+    cursor: pointer;
+}
+.c3{
+    position: absolute;
+    left: 1070px;
+    top: 170px;
+    cursor: pointer;
+}
+.but2{
+    position: absolute;
+    left: 1070px;
+    top: 735px;
+    cursor: pointer;
+}
+
+/* favourites css */
+.favourite{
+    position: absolute;
+    width: 1728px;
+    height: 1022px;
+    top: 3062px;
+    padding-bottom: 30px;
+}
+/* wax css */
+.wax{
+    position: absolute;
+    top: 4214px;
+    left: 78px;
+    width: 1573px;
+    height: 803px;
+}
+/* nature css */
+.nature{
+    position: absolute;
+    top: 5148px;
+    width: 1726px;
+    height: 801px;
+}
+/* nature css */
+.good{
+    position: absolute;
+    top: 6079px;
+    width: 1726px;
+    height: 651px;
+}
+.good img{ 
+    position: absolute;
+    width: 1726px;
+    height: 651px;
+}
+
+/* note css */
+.note{
+    position: absolute;
+    top: 6840px;
+    width: 1726px;
+    height: 732px;
+    left: -10px;
+}
+/* 4 pictures css */
+.picutre{
+    position: absolute;
+    top: 7722px;
+    width: 1726px;
+    height: 732px;
+}
+.picutre img{
+    width: 428px;
+    height: 365px;
+    gap: 0%;
+}
+ 
+/* footer css */
+.footer{
+    position: absolute;
+    top: 8087px;
+    width: 1729px;
+    height: 435px;
+    left: -1px;
+}
+.logo{
+    width: 158.52px;
+    height: 144px;
+    position: absolute;
+    top: 70px;
+    left: 58.74px;
+}
+.lyed{
+    position: absolute;
+    top: 70px;
+    left: 308px;
+    width: 132px;
+    height: 190px;
+}
+.care{
+    position: absolute;
+    top: 70px;
+    left: 585px;
+    width: 176px;
+    height: 152px;
+}
+.media{
+    position: absolute;
+    top: 70px;
+    left: 906px;
+    width: 149px;
+    height: 190px;
+}
+.sub{
+    position: absolute;
+    top: 70px;
+    left: 1200px;
+    width: 468px;
+    height: 164px;
+}
+.submit{
+    position: absolute;
+    top: 190px;
+    left: 1550px;
+    width: 70px;
+    height: auto;
+    border: 2px solid black;
+
+}
+.last{
+    position: absolute;
+    top: 400px;
+    left: 60px;
+    width: 220px;
+    height: auto;
+}
+
